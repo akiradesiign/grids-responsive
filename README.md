@@ -8,17 +8,14 @@ Adicione o grid.css em seu projeto HTML.
 ```
 <link rel="stylesheet" type="text/css" href="css/grid.css">
 ```
-<br>
 Para adicionar um **container**, use:
 ```
 <div class="container">
 ```
-<br>
 Para adicionar **linhas**, use:
 ```
 <div class="row">
 ```
-<br>
 Para adicionar **colunas**, use:
 ```
 <div class="col">
