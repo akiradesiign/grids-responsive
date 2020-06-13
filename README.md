@@ -54,3 +54,8 @@ Para adicionar **colunas**, use:
 ```
 <img src="https://i.imgur.com/As2n2A3.png">
 
+<hr>
+
+Caso encontre erros ou tenha sugestões, entre em contato através do e-mail **akiradznbr@gmail.com**
+- Versão 1.0
+
