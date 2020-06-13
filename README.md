@@ -32,7 +32,6 @@ Para adicionar **colunas**, use:
 - As colunas funcionam como no **Bootstrap**, 12 por linha.
 - Utilize col-x para determinar o tamanho da coluna, onde **x** deve ser substituito por números de 1 até 12.
 - Cada linha, suportará então, apenas 12 colunas, utilize os números com soma entre eles para determinar a quantidade de colunas.
-<br>
 **Exemplo:**
 ```
 <div class="col col-4">
