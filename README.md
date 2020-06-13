@@ -1,5 +1,7 @@
 # Grids Responsivas - HTML & CSS | Documentação
 ###### Desenvolvido por: Julimar "Akira" Jr.
+Responsivo para Navegador Desktop, Tablet e Smartphone.
+
 **Aviso:** Não é possível utilizar Bootstrap em conjunto com esse CSS.
 
 **Como utilizar:**
@@ -55,7 +57,10 @@ Para adicionar **colunas**, use:
 <img src="https://i.imgur.com/As2n2A3.png">
 
 <hr>
+###### Recomendo o uso de viewport para melhor funcionalidade em Smartphones
+```
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0'">
+```
 
-Caso encontre erros ou tenha sugestões, entre em contato através do e-mail **akiradznbr@gmail.com**
 - Versão 1.0
 
