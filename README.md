@@ -63,5 +63,5 @@ Para adicionar **colunas**, use:
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0'">
 ```
 
-- Versão 1.0
+###### Versão 1.0 - 12/06/2020
 
