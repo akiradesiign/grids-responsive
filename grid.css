@@ -1,3 +1,5 @@
+/* Desenvolvido por Julimar "Akira" Junior */
+
 /* Reset */
 body {
     margin: 0;
@@ -27,7 +29,7 @@ body {
     }
 }
 
-/* Linhas */
+/* Row */
 .row {
     margin-left: -5px;
     margin-right: -5px;
@@ -44,7 +46,7 @@ body {
     clear: both;
 }
 
-/* Colunas */
+/* Col */
 .col {
     display: inline-block;
     vertical-align: top;
@@ -57,7 +59,6 @@ body {
     *display: inline;
 }
 
-/* Duas Colunas */
 @media (min-width: 728px) {
     .col-1 {
         width: 8.3333%;
@@ -106,15 +107,4 @@ body {
     .col-12 {
         width: 100%;
     }
-}
-
-/* Classe Teste */
-.teste {
-    background-color: #353535;
-    color: rgb(255, 255, 255);
-    padding: 15px;
-    border-radius: 5px;
-    text-align: center;
-    margin-bottom: 5px;
-    margin-top: 5px;
 }
