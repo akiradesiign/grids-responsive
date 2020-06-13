@@ -57,6 +57,7 @@ Para adicionar **colunas**, use:
 <img src="https://i.imgur.com/As2n2A3.png">
 
 <hr>
+
 ###### Recomendo o uso de viewport para melhor funcionalidade em Smartphones
 ```
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0'">
