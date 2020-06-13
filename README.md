@@ -36,7 +36,7 @@ Para adicionar **colunas**, use:
   content
 </div>
 ```
-##Exemplo de código contendo uma linha com 3 colunas:
+## Exemplo de código contendo uma linha com 3 colunas:
 ```
 <div class="container">
   <div class="row">
